@@ -1,0 +1,4 @@
+Sixth program of compiler design
+lab in which we have to
+replace the white space with 
+single black character

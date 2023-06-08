@@ -1,0 +1,4 @@
+fifth program of compiler desgin lab
+Program to count words character and spaces
+input is taken from the input.txt file
+it is a lex program
